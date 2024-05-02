@@ -1,0 +1,41 @@
+2024-05-02 14:19:21,591 — User_service_logger — INFO — Launching FastAPI server - IP: 9caba13b1a636eb1d0d822aa8c82fd3b
+2024-05-02 14:19:21,633 — User_service_logger — INFO — FastAPI server is working - IP: 9caba13b1a636eb1d0d822aa8c82fd3b
+2024-05-02 14:19:24,504 — subscriber_logger — INFO — Requesting id - IP: 9caba13b1a636eb1d0d822aa8c82fd3b
+2024-05-02 14:19:24,625 — User_service_logger — INFO — Unique id for user 01c5f6766fa33dd8ee79f74cb65913a3 generated: 328c1366ee390cb1ef3b1877c7e4afb0 - IP: 9caba13b1a636eb1d0d822aa8c82fd3b
+2024-05-02 14:19:24,637 — subscriber_logger — INFO — Id recieved and validated: 328c1366ee390cb1ef3b1877c7e4afb0 - IP: 9caba13b1a636eb1d0d822aa8c82fd3b
+2024-05-02 14:19:24,637 — subscriber_logger — INFO — Connecting to broker broker.emqx.io - IP: 9caba13b1a636eb1d0d822aa8c82fd3b
+2024-05-02 14:19:24,704 — subscriber_logger — INFO — Connected to broker broker.emqx.io - IP: 9caba13b1a636eb1d0d822aa8c82fd3b
+2024-05-02 14:19:24,704 — subscriber_logger — INFO — Start subcribing - IP: 9caba13b1a636eb1d0d822aa8c82fd3b
+2024-05-02 14:19:29,043 — publish_logger — INFO — Requesting id - IP: 9caba13b1a636eb1d0d822aa8c82fd3b
+2024-05-02 14:19:29,047 — User_service_logger — INFO — Unique id for user 01c5f6766fa33dd8ee79f74cb65913a3 generated: 6babb569b9bbd52bf026ca9a28390818 - IP: 9caba13b1a636eb1d0d822aa8c82fd3b
+2024-05-02 14:19:29,051 — publish_logger — INFO — Id received and validated: 6babb569b9bbd52bf026ca9a28390818 - IP: 9caba13b1a636eb1d0d822aa8c82fd3b
+2024-05-02 14:19:29,052 — publish_logger — INFO — Connecting to broker broker.emqx.io - IP: 9caba13b1a636eb1d0d822aa8c82fd3b
+2024-05-02 14:19:29,116 — publish_logger — INFO — Connected to broker broker.emqx.io - IP: 9caba13b1a636eb1d0d822aa8c82fd3b
+2024-05-02 14:19:29,116 — publish_logger — INFO — Start publishing - IP: 9caba13b1a636eb1d0d822aa8c82fd3b
+2024-05-02 14:19:29,116 — publish_logger — INFO — publishing demid - IP: 9caba13b1a636eb1d0d822aa8c82fd3b
+2024-05-02 14:19:30,383 — subscriber_logger — INFO — received message: demid - IP: 9caba13b1a636eb1d0d822aa8c82fd3b
+2024-05-02 14:19:31,119 — publish_logger — INFO — publishing emidd - IP: 9caba13b1a636eb1d0d822aa8c82fd3b
+2024-05-02 14:19:32,181 — subscriber_logger — INFO — received message: emidd - IP: 9caba13b1a636eb1d0d822aa8c82fd3b
+2024-05-02 14:19:33,121 — publish_logger — INFO — publishing midde - IP: 9caba13b1a636eb1d0d822aa8c82fd3b
+2024-05-02 14:19:34,184 — subscriber_logger — INFO — received message: midde - IP: 9caba13b1a636eb1d0d822aa8c82fd3b
+2024-05-02 14:19:35,124 — publish_logger — INFO — publishing iddem - IP: 9caba13b1a636eb1d0d822aa8c82fd3b
+2024-05-02 14:19:36,186 — subscriber_logger — INFO — received message: iddem - IP: 9caba13b1a636eb1d0d822aa8c82fd3b
+2024-05-02 14:19:37,126 — publish_logger — INFO — publishing ddemi - IP: 9caba13b1a636eb1d0d822aa8c82fd3b
+2024-05-02 14:19:38,189 — subscriber_logger — INFO — received message: ddemi - IP: 9caba13b1a636eb1d0d822aa8c82fd3b
+2024-05-02 14:19:39,128 — publish_logger — INFO — publishing demid - IP: 9caba13b1a636eb1d0d822aa8c82fd3b
+2024-05-02 14:19:40,191 — subscriber_logger — INFO — received message: demid - IP: 9caba13b1a636eb1d0d822aa8c82fd3b
+2024-05-02 14:19:41,131 — publish_logger — INFO — publishing demid - IP: 9caba13b1a636eb1d0d822aa8c82fd3b
+2024-05-02 14:19:42,193 — subscriber_logger — INFO — received message: demid - IP: 9caba13b1a636eb1d0d822aa8c82fd3b
+2024-05-02 14:19:43,133 — publish_logger — INFO — publishing demid - IP: 9caba13b1a636eb1d0d822aa8c82fd3b
+2024-05-02 14:19:44,195 — subscriber_logger — INFO — received message: demid - IP: 9caba13b1a636eb1d0d822aa8c82fd3b
+2024-05-02 14:19:45,135 — publish_logger — INFO — publishing demid - IP: 9caba13b1a636eb1d0d822aa8c82fd3b
+2024-05-02 14:19:46,199 — subscriber_logger — INFO — received message: demid - IP: 9caba13b1a636eb1d0d822aa8c82fd3b
+2024-05-02 14:19:47,138 — publish_logger — INFO — publishing demid - IP: 9caba13b1a636eb1d0d822aa8c82fd3b
+2024-05-02 14:19:48,201 — subscriber_logger — INFO — received message: demid - IP: 9caba13b1a636eb1d0d822aa8c82fd3b
+2024-05-02 14:19:49,140 — publish_logger — INFO — Stop publishing - IP: 9caba13b1a636eb1d0d822aa8c82fd3b
+2024-05-02 14:19:49,141 — publish_logger — INFO — Disconnecting from broker broker.emqx.io - IP: 9caba13b1a636eb1d0d822aa8c82fd3b
+2024-05-02 14:19:49,141 — publish_logger — INFO — Disconnected from broker broker.emqx.io - IP: 9caba13b1a636eb1d0d822aa8c82fd3b
+2024-05-02 14:20:14,731 — subscriber_logger — WARNING — Publisher isn`t active for a long time. - IP: 9caba13b1a636eb1d0d822aa8c82fd3b
+2024-05-02 14:20:14,731 — subscriber_logger — INFO — Stop subscribing - IP: 9caba13b1a636eb1d0d822aa8c82fd3b
+2024-05-02 14:20:14,731 — subscriber_logger — INFO — Disconnectind from broker broker.emqx.io - IP: 9caba13b1a636eb1d0d822aa8c82fd3b
+2024-05-02 14:20:14,731 — subscriber_logger — INFO — Disconnected from broker broker.emqx.io - IP: 9caba13b1a636eb1d0d822aa8c82fd3b
